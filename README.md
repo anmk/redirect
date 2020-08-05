@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Redirect
 ## Introduction
 Three branches are available:  
-You are here: [Redirection in React Router 6 using useRedirect hook](https://github.com/anmk/redirect/tree/use_redirect_hook)
+You are here: [Redirection in React Router 6 using useRedirect hook](https://github.com/anmk/redirect/tree/use_redirect_hook)  
 You can go to: [Component RedirectTo redirects routing to a selected address in React Router 6](https://github.com/anmk/redirect/tree/redirect_to_component)  
 You can also go here: [Redirection in React Router 6 using useNavigate and useEffect](https://github.com/anmk/redirect/tree/redirect)
 ## Development server
