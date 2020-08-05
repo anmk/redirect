@@ -2,9 +2,10 @@ This project uses [React](https://github.com/facebook/react) version 16.13.1.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Redirect
 ## Introduction
-Two branches are available:  
+Three branches are available:  
 You are here: [Redirection in React Router 6 using useNavigate and useEffect](https://github.com/anmk/redirect/tree/redirect)  
-You can go to: [Component RedirectTo redirects routing to a selected address in React Router 6](https://github.com/anmk/redirect/tree/redirect_to_component)
+You can go to: [Component RedirectTo redirects routing to a selected address in React Router 6](https://github.com/anmk/redirect/tree/redirect_to_component)  
+You can also go here: [Redirection in React Router 6 using useRedirect hook](https://github.com/anmk/redirect/tree/use_redirect_hook)
 ## Development server
 Run `npm start` for a dev server. Navigate to `http://localhost:3000/`.
 ## Learn More
