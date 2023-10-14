@@ -20,4 +20,3 @@ RedirectTo uses the following open source projects for proper operation:
 * [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 * [React Router v6](https://reacttraining.com/blog/react-router-v6-pre/)
 * [node.js](https://nodejs.org/en/)
-this project uses React and has been bootstrapped by Create React App
