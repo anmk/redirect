@@ -1,7 +1,6 @@
 # RedirectTo
 This project uses [React](https://github.com/facebook/react) version 16.13.1 and has been bootstrapped by [Create React App](https://github.com/facebook/create-react-app).
 
-![version](https://img.shields.io/badge/react%20version-16.13.1-blue?style=plastic) ![GitHub repo size](https://img.shields.io/github/repo-size/anmk/redirect?style=plastic)
 ## Introduction
 Three branches are available:  
 You are here: [Component RedirectTo redirects routing to a selected address in React Router 6](https://github.com/anmk/redirect/tree/redirect_to_component)  
