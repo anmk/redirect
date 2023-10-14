@@ -1,5 +1,5 @@
 # useRedirect
-This project uses [React](https://github.com/facebook/react) version 16.13.1 and has been bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses [React](https://github.com/facebook/react) version 16.13.1 and has been bootstrapped by [Create React App](https://github.com/facebook/create-react-app).
 ## Introduction
 Three branches are available:  
 You are here: [Redirection in React Router 6 using useRedirect hook](https://github.com/anmk/redirect/tree/use_redirect_hook)  
