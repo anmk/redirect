@@ -1,8 +1,8 @@
 # Redirect
-This project uses [![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)](https://github.com/facebook/react) version 16.13.1.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses [![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)](https://github.com/facebook/react) 
+and has been bootstrapped by [Create React App](https://github.com/facebook/create-react-app).
 
-![GitHub repo size](https://img.shields.io/github/repo-size/anmk/redirect?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/anmk/redirect?style=plastic) ![version](https://img.shields.io/badge/react%20version-16.13.1-blue?style=plastic)
 
 ## Introduction
 Three branches are available:  
@@ -20,3 +20,4 @@ RedirectTo uses the following open source projects for proper operation:
 * [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 * [React Router v6](https://reacttraining.com/blog/react-router-v6-pre/)
 * [node.js](https://nodejs.org/en/)
+this project uses React and has been bootstrapped by Create React App
