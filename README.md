@@ -14,7 +14,7 @@ Run `npm start` for a dev server. Navigate to `http://localhost:3000/`.
 ## Learn More
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 To learn React, check out the [React documentation](https://reactjs.org/).
-## Tech
+## Technologies
 RedirectTo uses the following open source projects for proper operation:
 * [Create React App](https://create-react-app.dev/)
 * [React Hooks](https://reactjs.org/docs/hooks-intro.html)
