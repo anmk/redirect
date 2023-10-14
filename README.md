@@ -1,6 +1,7 @@
-This project uses [React](https://github.com/facebook/react) version 16.13.1.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Redirect
+This project uses [![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)](https://github.com/facebook/react) version 16.13.1.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub repo size](https://img.shields.io/github/repo-size/anmk/redirect?style=plastic)
 ## Introduction
 Three branches are available:  
 * [Redirection in React Router 6 using useNavigate and useEffect](https://github.com/anmk/redirect/tree/redirect)
